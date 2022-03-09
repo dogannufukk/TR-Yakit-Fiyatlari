@@ -1,0 +1,17 @@
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\obj\Debug\net5.0\App.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\obj\Debug\net5.0\App.Business.AssemblyInfoInputs.cache
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\obj\Debug\net5.0\App.Business.AssemblyInfo.cs
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\obj\Debug\net5.0\App.Business.csproj.CoreCompileInputs.cache
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\bin\Debug\net5.0\App.Business.deps.json
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\bin\Debug\net5.0\App.Business.dll
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\bin\Debug\net5.0\ref\App.Business.dll
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\bin\Debug\net5.0\App.Business.pdb
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\bin\Debug\net5.0\App.Dal.dll
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\bin\Debug\net5.0\App.Entity.dll
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\bin\Debug\net5.0\App.Dal.pdb
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\bin\Debug\net5.0\App.Entity.pdb
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\obj\Debug\net5.0\App.Business.csproj.AssemblyReference.cache
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\obj\Debug\net5.0\App.Business.csproj.CopyComplete
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\obj\Debug\net5.0\App.Business.dll
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\obj\Debug\net5.0\ref\App.Business.dll
+C:\Users\ufukd\Desktop\GitRepo\GetFuelPriceData\FuelPriceGetter\App.Business\obj\Debug\net5.0\App.Business.pdb
