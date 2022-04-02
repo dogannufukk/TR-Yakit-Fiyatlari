@@ -388,7 +388,12 @@ FodyWeavers.xsd
 *.msp
 
 
+# exclude everything
+/WebAPI/UploadedFiles/*
+
+# exception to the rule
+!/WebAPI/UploadedFiles/.gitkeep
+
 # JetBrains Rider
 .idea/
 *.sln.iml
-

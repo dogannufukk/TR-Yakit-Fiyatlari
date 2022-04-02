@@ -5815,19 +5815,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ufukd\\.nuget\\packages\\": {}
+    "C:\\Users\\Ufuk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ufukd\\Desktop\\FuelPrices\\TR-Yakit-Fiyatlari\\App.Dal\\App.Dal.csproj",
+      "projectUniqueName": "C:\\Users\\Ufuk\\Desktop\\Projects\\TR-Yakit-Fiyatlari\\App.Dal\\App.Dal.csproj",
       "projectName": "App.Dal",
-      "projectPath": "C:\\Users\\ufukd\\Desktop\\FuelPrices\\TR-Yakit-Fiyatlari\\App.Dal\\App.Dal.csproj",
-      "packagesPath": "C:\\Users\\ufukd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ufukd\\Desktop\\FuelPrices\\TR-Yakit-Fiyatlari\\App.Dal\\obj\\",
+      "projectPath": "C:\\Users\\Ufuk\\Desktop\\Projects\\TR-Yakit-Fiyatlari\\App.Dal\\App.Dal.csproj",
+      "packagesPath": "C:\\Users\\Ufuk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ufuk\\Desktop\\Projects\\TR-Yakit-Fiyatlari\\App.Dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ufukd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ufuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5841,8 +5841,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ufukd\\Desktop\\FuelPrices\\TR-Yakit-Fiyatlari\\App.Entity\\App.Entity.csproj": {
-              "projectPath": "C:\\Users\\ufukd\\Desktop\\FuelPrices\\TR-Yakit-Fiyatlari\\App.Entity\\App.Entity.csproj"
+            "C:\\Users\\Ufuk\\Desktop\\Projects\\TR-Yakit-Fiyatlari\\App.Entity\\App.Entity.csproj": {
+              "projectPath": "C:\\Users\\Ufuk\\Desktop\\Projects\\TR-Yakit-Fiyatlari\\App.Entity\\App.Entity.csproj"
             }
           }
         }
@@ -5897,7 +5897,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
